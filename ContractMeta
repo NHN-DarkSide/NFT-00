@@ -1,8 +1,8 @@
 {
-  "name": "OpenSea Creatures",
-  "description": "OpenSea Creatures are adorable aquatic beings primarily for demonstrating what can be done using the OpenSea platform. Adopt one today to try out all the OpenSea buying, selling, and bidding feature set.",
-  "image": "https://openseacreatures.io/image.png",
-  "external_link": "https://openseacreatures.io",
+  "name": "Chinese Zodiac Metaverse by Yassart Labs",
+  "description": "In the Yassart Labs' Chinese Zodiac Metaverse, humans are replaced by zodiac animals armed with all sorts of hobbies and accessories from fashion, traveling, sports, or adventures. All of our 6,000 zodiac animals will be custom made by Yosuke Hasegawa to fulfill all your wildest dreams.",
+  "image": "https://nhn-darkside.github.io/NFT-00/image.png",
+  "external_link": "https://raymond0321.wixsite.com/yassartlab",
   "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
-  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721" # Where seller fees will be paid to.
+  "fee_recipient": "0x898fafae880B2F8eC5971A896682CD1E4f5AE18c" # Where seller fees will be paid to.
 }
